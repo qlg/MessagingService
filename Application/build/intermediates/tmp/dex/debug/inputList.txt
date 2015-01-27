@@ -1,0 +1,7 @@
+C:\Users\quoteslounge\Downloads\Telerik_UI_for_Android_2014_3_1312_TRIAL\Examples\MessagingService\Application\build\intermediates\classes\debug
+C:\Users\quoteslounge\Downloads\Telerik_UI_for_Android_2014_3_1312_TRIAL\Examples\MessagingService\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-f1abeb675933e12efbfd87cc797008d93bfe8e53.jar
+C:\Users\quoteslounge\Downloads\Telerik_UI_for_Android_2014_3_1312_TRIAL\Examples\MessagingService\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-b0a432248de4b4d10aa1f77b0925f5c0dfb5b3f3.jar
+C:\Users\quoteslounge\Downloads\Telerik_UI_for_Android_2014_3_1312_TRIAL\Examples\MessagingService\Application\build\intermediates\pre-dexed\debug\classes-6b557ae104e3cde1b2558bba5f37ddfb552c09b3.jar
+C:\Users\quoteslounge\Downloads\Telerik_UI_for_Android_2014_3_1312_TRIAL\Examples\MessagingService\Application\build\intermediates\pre-dexed\debug\classes-68bd76a166512e29584780d8331d0a350d567316.jar
+C:\Users\quoteslounge\Downloads\Telerik_UI_for_Android_2014_3_1312_TRIAL\Examples\MessagingService\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-0af912d1aca3766d8300e253b4e1d684b42bbde3.jar
+C:\Users\quoteslounge\Downloads\Telerik_UI_for_Android_2014_3_1312_TRIAL\Examples\MessagingService\Application\build\intermediates\pre-dexed\debug\classes-e8a20e2401a45e315c61000e790fb5b3ad3dbc36.jar
